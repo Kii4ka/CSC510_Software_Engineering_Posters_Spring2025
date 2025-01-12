@@ -19,9 +19,3 @@ Please ensure you upload your poster to the appropriate project directory.
 2. **File Naming Convention**: Use the format `GroupName_PosterTitle.pdf` (e.g., `Group1_Popcorn.pdf`).
 3. **Directory**: Ensure you upload your file to the correct project directory (`Project_1`, `Project_2`, or `Project_3`).
 4. **Commit Message**: Include a meaningful commit message when submitting your poster (e.g., `Added Group_100 poster for Project 1`).
-
-## How to Submit Your Poster
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Kii4ka/CSC510_Software_Engineering_Posters_Spring2025.git
